@@ -4,7 +4,7 @@ A sleek, modern Obsidian theme inspired by the Raycast macOS application. This t
 
 > **Note:** This is an unofficial theme and is not affiliated with or endorsed by Raycast. It was created as a personal project inspired by the Raycast design aesthetic.
 
-![Raycast Theme Preview](screenshots/preview.png)
+![Raycast Theme Preview](preview.png)
 
 ## Features
 
