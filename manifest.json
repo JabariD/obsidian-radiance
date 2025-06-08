@@ -1,6 +1,7 @@
 {
     "name": "Raycast",
     "version": "1.0.0",
+    "minAppVersion": "1.4.0",
     "author": "@jabarid",
     "authorUrl": "https://buymeacoffee.com/jabarid"
 }
