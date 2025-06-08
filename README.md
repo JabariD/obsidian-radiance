@@ -2,6 +2,8 @@
 
 A sleek, modern Obsidian theme inspired by the Raycast macOS application. This theme provides a clean, minimalist interface with carefully crafted UI elements and a signature red accent color that gives your notes a distinctive and professional appearance.
 
+> **Note:** This is an unofficial theme and is not affiliated with or endorsed by Raycast. It was created as a personal project inspired by the Raycast design aesthetic.
+
 ![Raycast Theme Preview](screenshots/preview.png)
 
 ## Features
