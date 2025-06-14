@@ -1,18 +1,18 @@
-# Raycast for Obsidian
+# Radiance for Obsidian
 
 A sleek, modern Obsidian theme inspired by the Raycast macOS application. This theme provides a clean, minimalist interface with carefully crafted UI elements and a signature red accent color that gives your notes a distinctive and professional appearance.
 
-> **Note:** This is an unofficial theme and is not affiliated with or endorsed by Raycast. It was created as a personal project inspired by the Raycast design aesthetic.
+> **Note:** This is an unofficial theme and is not affiliated with or endorsed by Raycast. It was created as a personal project inspired by the Radiance design aesthetic.
 
-![Raycast Theme Preview](preview.png)
+![Radiance Theme Preview](preview.png)
 
 ## Features
 
-- **Clean, modern interface** inspired by Raycast and Obsidian Minimal
+- **Clean, modern interface** inspired by Radiance and Obsidian Minimal
 - **Complete dark and light mode** support with carefully selected color palettes
 - **Custom styling** for all major UI components:
   - Workspace and sidebars
-  - Command palette (Raycast-inspired design)
+  - Command palette (Radiance-inspired design)
   - Buttons and interactive elements
   - Modals and prompts
   - Tags and metadata
@@ -28,15 +28,15 @@ A sleek, modern Obsidian theme inspired by the Raycast macOS application. This t
 1. Open Obsidian Settings
 2. Navigate to Appearance → Themes
 3. Click "Manage" button
-4. Search for "Raycast"
+4. Search for "Radiance"
 5. Click "Install and use"
 
 ### Method 2: Manual Installation
 
 1. Download the `theme.css` and `manifest.json` files
-2. Create a new folder called `Raycast` in your vault's `.obsidian/themes/` directory
+2. Create a new folder called `Radiance` in your vault's `.obsidian/themes/` directory
 3. Place the downloaded files in this folder
-4. Open Obsidian Settings → Appearance → Themes and select "Raycast"
+4. Open Obsidian Settings → Appearance → Themes and select "Radiance"
 
 ## Color Scheme
 
